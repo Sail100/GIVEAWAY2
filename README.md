@@ -23,3 +23,6 @@ RUN COMMAND
 
 `node v12.0.0, with pnpm`
 
+# IF IT DOES NOT WORK USE THIS
+``Clone Command``
+``git clone https://github.com/Sail100/GIVEAWAY2``
