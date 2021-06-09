@@ -1,5 +1,4 @@
 # [Want One With Giveaway Requirements and Bonus Enteries?](https://github.com/Sail100/GIVEAWAY2)
-- [Check Out This Video!](https://www.youtube.com/watch?v=9E6gREwQH6o)
 
 **This Giveaway bot was created by 0_0#6666**
 
@@ -20,3 +19,8 @@ MAKE A NEW ONE USING MY TUTORIAL :D``**
 
 # Host On Repl.it
 [![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/Sail100/GIVEAWAY2)
+
+RUN COMMAND
+
+`node v12.0.0, with pnpm`
+
