@@ -17,7 +17,7 @@ IF YOU WANT A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM itsMC#1196 
 ``IF YOU DO NOT USE A COMMAND EVERY HALF AN HOUR ON REPL.IT HOSTING THE BOT DIES, CAN BE REVIVED BY RESTARTING IT``
 
 # Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/Sail100/GIVEAWAY2)
+[![Use on Repl.it](https://repl.it/badge/github/sail100/GiveawayBot)](https://repl.it/github/Sail100/GIVEAWAY2)
 
 RUN COMMAND
 
